@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Features](features.md)
-* [Releases Notes](changelog.md)
+* [Releases Notes](releases.md)
 
 ## 🚀 Getting Started
 
